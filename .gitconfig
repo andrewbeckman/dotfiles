@@ -1,0 +1,10 @@
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	l = log --oneline -20
+[user]
+	name = Andrew Beckman
+	email = andrew@getrundoo.com
+[init]
+	defaultBranch = main
